@@ -1,5 +1,0 @@
-[preload  storage="./data/bgimage/gakuseiannai.jpg"  ]
-[preload  storage="./data/bgimage/aburasoba.jpg"  ]
-[preload  storage="./data/bgimage/gakusei.jpg"  ]
-[preload  storage="./data/bgimage/title.jpg"  ]
-[return] 
