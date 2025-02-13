@@ -1,0 +1,21 @@
+[_tb_system_call storage=system/_scene1.ks]
+
+[cm  ]
+[playbgm  volume="100"  time="1000"  loop="true"  storage="maou_game_town22.ogg"  ]
+[bg  storage="Designer-_7_.jpg"  time="1000"  ]
+[tb_show_message_window  ]
+[chara_show  name="bob"  time="1000"  wait="true"  left="836"  top="65"  width="262"  height="959"  reflect="false"  storage="chara/2/画像-removebg-preview.png"  ]
+[tb_start_text mode=1 ]
+#ボブ
+やあ[p]
+僕の名前はボブ[p]
+開志専門職大学の一年生さ！[p]
+今日の時間割は午前中で終って、これからお昼を食べにいくところなんだ。[p]
+そうだ！君！[p]
+どこか美味しいラーメン屋さん知らない？[p]
+[_tb_end_text]
+
+[chara_show  name="syuzinkou"  time="1000"  wait="true"  left="-140"  top="30"  width="679"  height="679"  reflect="false"  ]
+[glink  color="black"  storage="scene2.ks"  size="20"  text="知ってる"  x="600"  y="150"  ]
+[glink  color="black"  storage="badend.ks"  size="20"  text="知らない"  x="600"  y="240"  width=""  height=""  _clickable_img=""  ]
+[s  ]
